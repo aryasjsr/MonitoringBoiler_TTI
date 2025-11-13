@@ -39,7 +39,7 @@ MonitoringBoiler_TTI/
 
 ### Prasyarat
 
-- Python 3.7 atau lebih baru
+- Python 3.7 (harus 3.7)
 - OPC DA Server (Kepware/MX OPC) sudah terinstall dan running
 - InfluxDB server (local atau cloud)
 - Windows OS (untuk OpenOPC dengan pywin32)
@@ -218,8 +218,7 @@ Kontribusi, issues, dan feature requests sangat diterima!
 - Proyek ini dikembangkan untuk keperluan monitoring industri
 - Disarankan untuk testing di environment development terlebih dahulu
 - Pastikan konfigurasi security InfluxDB sesuai standar production
-- Backup data secara berkala
 
 ---
 
-**Dibuat dengan ❤️ untuk monitoring industri yang lebih efisien**
+
